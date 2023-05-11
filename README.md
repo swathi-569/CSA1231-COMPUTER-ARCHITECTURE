@@ -1,8 +1,0 @@
-LDA 2000
-CMA
-STA 2001
-ADI 01H
-STA 2002
-HLT
-![Screenshot (116)](https://github.com/swathi-569/CSA1231-COMPUTER-ARCHITECTURE/assets/113512699/f4ecb254-9030-4fad-8589-7c0cd2fde825)
-
